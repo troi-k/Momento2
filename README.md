@@ -1,2 +1,3 @@
 Buenos dias profesor este repositorio contiene los archivos para la aplicacion web de agendar citas medicas , modificarlas y eliminarlas la carpeta examen contiene los archivos php y las carpetas img,css y js, tambn encontrara el scrip de la base de datos la cual se debe importar desde sql y llamarla citas medicas,
 este trabajo fue desarrollado por juan sebastian gallego carvajal cc 1037597558 y kamylo andres castrillon.   programacion para la web miercoles noche 
+el video con la explicacion de la aplicacion se encuentra en youtube ya que por el peso del video no se pudo montar aca adjunto link del video   https://youtu.be/s7ZKPtsft5k
